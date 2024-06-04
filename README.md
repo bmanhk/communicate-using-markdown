@@ -185,6 +185,9 @@ You can now `merge` your pull request!
 
 _Congratulations , you've completed this course!_
 
+
+Added a comment.
+
 Here's a recap of all the tasks you've accomplished in your repository:
 
 1. You learned about Markdown, headings, images, code examples, and task lists.
