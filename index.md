@@ -7,8 +7,8 @@ $ git init
 Initialized empty Git repository in /Users/fenago/Projects/recipe-repository/.git/
 ```
 
-- [x] List syntax is required
-- [x] This item is complete
+- [] List syntax is required
+- [] This item is complete
 - [ ] This item is not complete
 
 ![Image of Yaktocat](https://raw.githubusercontent.com/fenago/communicate-using-markdown/master/yaktocat.png)
